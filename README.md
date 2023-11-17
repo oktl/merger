@@ -1,0 +1,13 @@
+# merger
+This app came aobut because I had scanned some CD covers.  Each scan was a separate
+.pdf file.
+
+I wrote a script to merge all the files in a folder into one file. This script
+worked well, and I only had to change a few items each time I used it.
+
+But I had to manually look at each folder to find out the names and number of files.
+And then I had to cd into the folder from the python command line to make the script
+work.
+
+So I decided to make a gui to simplify some of those requirements. And that was easy
+enough to do. But then I kept thinking of ways to make the gui do more. I added...
